@@ -3,7 +3,7 @@
 - 💻 I'm a Computer Science student
 - 🌱 I'm currently learning more about JavaScript and Java
 - 🎨 Fun fact: In my spare time, I like to create Pixel Art characters
-<img align="right" alt="Giovana-Gif" height="256" width="256" src="https://cdn.discordapp.com/attachments/758157405913088003/1216196339126239253/hii.gif?ex=65ff821b&is=65ed0d1b&hm=8b0188355363cb4e8b48f3383b1f825b2df58df9b0475a6d4f18d5fed865f81d&">
+<img align="right" alt="Giovana-Gif" height="256" width="256" src="https://cdn.discordapp.com/attachments/758157405913088003/1222212464314159214/hii.gif?ex=6615650f&is=6602f00f&hm=2dc034dc9d306a7cf4f1a10b8cd69446c99f965f69e6aecff8ef7fa49d7f527b&">
 <br>
 
 ### 🛠️ Tech Stack:
